@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/67923084/147287754-ade8615b-e0d8-45b6-
 ## License
 MIT License
 
-Copyright (c) 2021 rahul
+Copyright (c) 2021 rahul prakash
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
