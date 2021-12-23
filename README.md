@@ -2,7 +2,8 @@
 Seamlessly allows you to trade Advanced Trade Management (ATM) strategies directly through the charting interface on NinjaTrader 8.
 
 ## Demo
-https://user-images.githubusercontent.com/67923084/147280485-147a306c-7764-4949-b2fa-1d34bf2c2655.mov
+
+https://user-images.githubusercontent.com/67923084/147288036-2602162b-c3a2-41a5-9742-748f5e71caad.mp4
 
 ## Installation
 1. Open NinjaTrader 8 and import ChartATM.zip via **Tools > Import > NinjaScript Add-On**
@@ -11,8 +12,6 @@ https://user-images.githubusercontent.com/67923084/147280485-147a306c-7764-4949-
 2. Enable Chart Trader
 
 3. Create or select an existing ATM strategy from the ATM Strategy dropdown. **Ensure that you saved the strategy as a named Template.**
-<!-- <img src="https://user-images.githubusercontent.com/67923084/147281576-7cd5bc46-d77d-42fc-8834-ea973bc80713.png" width="100%"> -->
-<!-- ![image](https://user-images.githubusercontent.com/67923084/147284707-03ca659c-7540-4620-85e4-6f599ccc8df2.png) -->
 ![image](https://user-images.githubusercontent.com/67923084/147284781-dacbc370-3f71-43aa-92e2-cc5dc92678f9.png)
 
 
