@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/67923084/147288036-2602162b-c3a2-41a5-
 
 2. Enable Chart Trader
 
-3. Create or select an existing ATM strategy from the ATM Strategy dropdown. **Ensure that you saved the strategy as a named Template.**
+3. Create or select an existing ATM strategy from the ATM Strategy dropdown. This is where you can customize stop loss strategies, add chasing parameters and create shadow strategies. **Ensure that you save the strategy as a named Template.**
 ![image](https://user-images.githubusercontent.com/67923084/147284781-dacbc370-3f71-43aa-92e2-cc5dc92678f9.png)
 
 
