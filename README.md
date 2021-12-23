@@ -20,3 +20,6 @@ https://user-images.githubusercontent.com/67923084/147280485-147a306c-7764-4949-
 
 ## Usage
 Simply Shift + Left Click at a price level anywhere on the chart to place a limit order that will be automatically managed with the strategy you selected. Clicking a price level below the current price will place a buy limit order, while clicking one above will place a sell limit order.
+
+https://user-images.githubusercontent.com/67923084/147287270-6d5d91bc-97e6-4dd4-8027-016343870c8a.mp4
+
