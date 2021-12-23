@@ -1,5 +1,5 @@
 # ChartATM
-Seamlessly allows you to trade Advanced Trade Management (ATM) strategies directly through the charting interface on NinjaTrader 8.
+Seamlessly allows you to trade Advanced Trade Management (ATM) strategies directly through the charting interface on NinjaTrader 8. Allows execution of orders with custom stop loss strategies, chase rules and shadow strategies.
 
 ## Demo
 
