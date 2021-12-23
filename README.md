@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/67923084/147280485-147a306c-7764-4949-
 2. Enable Chart Trader
 
 3. Create or select an existing ATM strategy from the ATM Strategy dropdown. **Ensure that you saved the strategy as a named Template.**
-<img src="https://user-images.githubusercontent.com/67923084/147281576-7cd5bc46-d77d-42fc-8834-ea973bc80713.png" width="50%">
+<img src="https://user-images.githubusercontent.com/67923084/147281576-7cd5bc46-d77d-42fc-8834-ea973bc80713.png" width="100%">
 
 
 ## Usage
