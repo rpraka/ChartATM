@@ -5,7 +5,7 @@ Seamlessly allows you to trade Advanced Trade Management (ATM) strategies direct
 https://user-images.githubusercontent.com/67923084/147280485-147a306c-7764-4949-b2fa-1d34bf2c2655.mov
 
 ## Installation
-1. Open NinjaTrader 8 and import ChartATM.zip via Tools > Import > NinjaScript Add-On
+1. Open NinjaTrader 8 and import ChartATM.zip via **Tools > Import > NinjaScript Add-On**
 ![image](https://user-images.githubusercontent.com/67923084/147281220-d916fdd6-3f01-4a14-837d-93b98fec0791.png)
 
 2. Enable Chart Trader
